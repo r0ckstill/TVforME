@@ -4,8 +4,6 @@ http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV3HD/lzu
 http://hdtv.lzu6.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1,CCTV5HD/lzu
-http://hdtv.lzu6.edu.cn/hls/hls257.m3u8
-#EXTINF:-1,CCTV5HD/lzu
 http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1,CCTV5+HD/lzu
 http://hdtv.lzu6.edu.cn/hls/cctv5phd.m3u8
