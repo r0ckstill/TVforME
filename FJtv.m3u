@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CCTV16HD
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1,CCTV1HD/lzu
 http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV3HD/lzu
