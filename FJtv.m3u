@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CCTV4K
+https://p.ggiptv.com/v/4k.m3u8
 #EXTINF:-1,CCTV16HD
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1,CCTV6HD/测试
