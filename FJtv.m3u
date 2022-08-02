@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,BBC
-http://109.171.45.109:81/udp/239.54.5.180:1234
+#EXTINF:-1,CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1,CCTV4K
 https://p.ggiptv.com/v/4k.m3u8
 #EXTINF:-1,CCTV16HD
