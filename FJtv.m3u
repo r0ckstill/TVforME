@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,咪咕4k_1
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1,咪咕4k_2
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
+#EXTINF:-1,v6代理咪咕4k
+http://[2409:8087:5c00:10:5::157]/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" status="online",Bloomberg Quicktake (1080p)
 https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" status="online",Bloomberg TV+ UHD (2160p)
