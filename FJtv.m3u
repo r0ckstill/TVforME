@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,咪咕4k_1
+#EXTINF:-1,咪咕4k50p_1
 http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1,咪咕4k_2
+#EXTINF:-1,咪咕4k50p_2
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
-#EXTINF:-1,v6代理咪咕4k
+#EXTINF:-1,v6咪咕4k50p
 http://[2409:8087:5c00:10:5::157]/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
 #EXTINF:-1,CCTV16_4k_cooltv
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
@@ -11,7 +11,7 @@ http://live.cooltv.top/tv/aishang.php?id=cctv164k
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,CCTV16_4k25p_24M
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1,v6代理CCTV16_4k
+#EXTINF:-1,v6代理CCTV16_4k50p
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,CCTV5_HD_cooltv
 http://live.cooltv.top/tv/aishang.php?id=cctv5hd
