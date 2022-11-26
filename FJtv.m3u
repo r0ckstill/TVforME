@@ -5,8 +5,6 @@ http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
 #EXTINF:-1,v6咪咕4k50p
 http://[2409:8087:5c00:10:5::157]/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
-#EXTINF:-1,抖音UHD
-https://pull-hs-spe-f5.douyinliving.com/fantasy/stream-688489060454367926_spuhd.flv?_neptune_token=MIGnBAySc5kNL2wcC7xnnBIEgYSx2k5_H6KbVn5dBdoCkIllT5wq-wiyKsjLShefBXBySZiXh5jLGQoHiJr4QRfGadqLXxGqXwYJw1lAK_yaypcHjTKq_CaIBsH7znr8rEm6-ktfwWJHqd18JVivGYRz-IzwL5Sg31I_3Eshc1PwH3KccQvM7uorVbFhmSpkyfQGX9O3YvUEEDwOlxxKur9RQHLmMugvXcI&expire=1669477451&sign=99b650b3c5d2fdad93f51b2d05a1833a&volcSecret=99b650b3c5d2fdad93f51b2d05a1833a&volcTime=1669477451&abr_pts=-1800
 #EXTINF:-1,CCTV16_4k_cooltv
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1,CCTV16_4k50p_34M
