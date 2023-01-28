@@ -5,14 +5,8 @@ http://live.cooltv.top/tv/aishang.php?id=cctv164k
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,v6代理CCTV16_4k50p
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1,CCTV5_HD_cooltv
-http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 #EXTINF:-1,CCTV5+_cooltv
 http://live.cooltv.top/tv/aishang.php?id=cctv5p
-#EXTINF:-1,CCTV16_cooltv
-http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-#EXTINF:-1,CCTV4K_18M
-http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" status="online",Bloomberg Quicktake (1080p)
 https://bloomberg-quicktake-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" status="online",Bloomberg TV+ UHD (2160p)
