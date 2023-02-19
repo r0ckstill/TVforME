@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,CCTV16_4k_cooltv
-http://live.cooltv.top/tv/aishang.php?id=cctv164k
-#EXTINF:-1,CCTV16_4k50p_34M
-http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,v6代理CCTV16_4k50p
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,CCTV5+_cooltv
@@ -25,11 +21,9 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,CNN Samsung
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,CCTV16HD
-http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1,凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1,凤凰香港
+#EXTINF:-1,凤凰咨询
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -39,10 +33,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://pull-l3-cny.douyincdn.com/third/stream-3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 #EXTINF:-1,有线财经台
 http://pull-l3-cny.douyincdn.com/third/stream-6cce73798021d977d916afacf1caba36.m3u8
-#EXTINF:-1,HBO HD
-http://pull-l3-cny.douyincdn.com/third/stream-b2478a833f3e8b439b680048fcbf7786.m3u8
-#EXTINF:-1,探索频道HD
-http://pull-l3-cny.douyincdn.com/third/stream-34633761735b6c677356a7c551f89888.m3u8
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 #EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
